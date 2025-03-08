@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './center.component.css'
 })
 export class CenterComponent {
-
+mostrarSearch():void{
+  
+}
 }

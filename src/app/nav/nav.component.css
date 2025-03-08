@@ -1,13 +1,10 @@
-div{
-    width:50%;
-    height: 70vh;
+
+nav{
+    height: 100%;
     background-color: rgb(61, 61, 61);
     margin: 0.5%;
-    padding: 1%;
     border-radius: 2%;
-}
-nav{
-    margin: 2%;
+    padding: 3%;
 
 }
 li{
